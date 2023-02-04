@@ -1,14 +1,7 @@
-
-
-
-Hi there 👋 
----
-
 I'm Vishnu Shukla, a freelance data consultant, specializing in data viz design. 
 
-- 
 - :computer: **Coding**: R, Python, SQL, Shiny, Looker
-- 👩‍🏫 **Sharer of Code**: I share most of my personal projects here. Sometimes I even teach workshops! 
+- 👩‍🏫 **Sharer of Code**: I share most of my personal projects here. Sometimes I just code! 
 - :fitness_camp: **Hobbies**: Fitness 
 
 
