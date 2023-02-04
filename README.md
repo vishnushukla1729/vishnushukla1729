@@ -1,3 +1,8 @@
+
+
+
+
+
 I'm Vishnu Shukla, a freelance data consultant, specializing in data viz design. 
 
 - :computer: **Coding**: R, Python, SQL, Shiny, Looker
@@ -51,7 +56,7 @@ Data Science Projects
  
  Let's Connect!
 ---
- [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]
+ [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp;
  
 
 
