@@ -11,7 +11,6 @@ I'm Vishnu Shukla, a freelance data consultant, specializing in data viz design.
 
 
 
-[**Buy Me a Coffee ☕**] - if you love my work and want to share the love, I love coffee! 
 
 Gallery
 ---
